@@ -4,7 +4,7 @@
 <server>
 <id>connectedapp</id>
 <username>~~~client~~~</username>
-<password>6212020f9d894272a785cb1489cac737~?~8E737C8c72754053bc952C0ee6Fd4090</password>
+<password>${clientId}~?~{clientSecret}</password>
 </server>
 </servers>
 </settings>
