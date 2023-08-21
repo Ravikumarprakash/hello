@@ -4,7 +4,7 @@
 <server>
 <id>connectedapp</id>
 <username>~~~client~~~</username>
-<password>${clientId}~?~${clientSec}</password>
+<password>${clientId}~?~${clientSecret}</password>
 </server>
 </servers>
 </settings>
