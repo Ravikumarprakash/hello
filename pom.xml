@@ -42,8 +42,8 @@
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
 							<mule.env>${mule.env}</mule.env>
-							<anypoint.platform.client_id>${anypoint.platform.client_id}</anypoint.platform.client_id>
-							<anypoint.platform.client_secret>${anypoint.platform.client_secret}</anypoint.platform.client_secret>
+							<anypoint.platform.client_id>6f66296d05ab44d199163ee9022d6ab6</anypoint.platform.client_id>
+							<anypoint.platform.client_secret>49cC1b6fc3e54718885803F880fbFB91</anypoint.platform.client_secret>
 						</properties>
 					</cloudHubDeployment>
 				</configuration>
